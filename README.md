@@ -60,24 +60,3 @@ GitHub account was cloned using the `git clone` command,:
 - Screenshot:
   
   ![Pull request](./assets/pull_request.png)
-
-
-
-
-
-# 4. Git Operations Demonstrated
-
-| Git Feature              | Demonstrated? | Evidence                          |
-|--------------------------|---------------|------------------------------------|
-| Git Installation         | ✅            | `git --version` screenshot         |
-| Repository Cloning       | ✅            | Terminal logs included             |
-| Branch Creation          | ✅            | `git checkout -b` commands         |
-| Staged Commits           | ✅            | `git add` + `git commit` logs      |
-| Push to GitHub           | ✅            | `git push origin branch-name`      |
-| Merge Workflow           | ✅            | `git pull` for merging branches    |
-| Collaboration Simulation | ✅            | Separate branches: Tom & Jerry     |
-
----
-
-## 🧾 Repository File Tree
-
